@@ -1,0 +1,44 @@
+body{
+    font-family: sans-serif;
+    font-size: 30px;
+}
+.logo{
+    width: 400px;
+}
+
+
+
+header{
+    text-align: center;
+}
+
+hav a{
+   text-decoration: none;
+   margin: 10px;
+   border: 2px solid red;
+   border-radius: 8px;
+   padding: 5px;
+   background-color: white;
+   color:red;
+}
+
+table img{
+    width: 300px;
+}
+
+table{
+    color:red;
+    font-weight: 800;
+}
+
+footer{
+    background-color:red;
+    color:white;
+    padding: 20px;
+    font-size: 20px;
+}
+
+h1, h2{
+    color:red;
+    text-align: center;
+}
